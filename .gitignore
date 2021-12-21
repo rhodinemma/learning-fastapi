@@ -1,0 +1,5 @@
+__pycache__/index.cpython-39.pyc
+config/__pycache__/database.cpython-39.pyc
+schemas/__pycache__/student.cpython-39.pyc
+routes/__pycache__/student.cpython-39.pyc
+models/__pycache__/student.cpython-39.pyc
